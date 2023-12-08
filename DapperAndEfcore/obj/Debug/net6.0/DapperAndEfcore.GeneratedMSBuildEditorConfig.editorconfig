@@ -22,6 +22,18 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/Practice/Youtube/DapperAndEfcore/DapperAndEfcore/Views/Home/AddEfCore.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGRFZkNvcmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Practice/Youtube/DapperAndEfcore/DapperAndEfcore/Views/Home/AddSubject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGRTdWJqZWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Practice/Youtube/DapperAndEfcore/DapperAndEfcore/Views/Home/EditSubject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0U3ViamVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/Practice/Youtube/DapperAndEfcore/DapperAndEfcore/Views/Home/getAll.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxnZXRBbGwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

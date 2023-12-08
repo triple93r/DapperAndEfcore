@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DapperAndEfcore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4bc5d918fae2eba67d8fc22f525779a955d50a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("DapperAndEfcore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DapperAndEfcore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -257,3 +257,4 @@ E:\Practice\Youtube\DapperAndEfcore\DapperAndEfcore\obj\Debug\net6.0\refint\Dapp
 E:\Practice\Youtube\DapperAndEfcore\DapperAndEfcore\obj\Debug\net6.0\DapperAndEfcore.pdb
 E:\Practice\Youtube\DapperAndEfcore\DapperAndEfcore\obj\Debug\net6.0\DapperAndEfcore.genruntimeconfig.cache
 E:\Practice\Youtube\DapperAndEfcore\DapperAndEfcore\obj\Debug\net6.0\ref\DapperAndEfcore.dll
+E:\Practice\Youtube\DapperAndEfcore\DapperAndEfcore\obj\Debug\net6.0\DapperAndEfcore.sourcelink.json
